@@ -1,1 +1,1 @@
-# boilerplates
+# Boilerplates for different setups

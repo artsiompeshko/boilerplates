@@ -1,0 +1,28 @@
+{
+  "name": "edmunds-help-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"./**/*.js\" \"test/**/*.js\"",
+    "lint": "eslint \"./**/*.js\" --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artsiompeshko/edmunds-help-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artsiompeshko/edmunds-help-me/issues"
+  },
+  "homepage": "https://github.com/artsiompeshko/edmunds-help-me#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  }
+}
